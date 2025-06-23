@@ -19,10 +19,10 @@
 
 ## Guestway Platform
 
-* [Dashboard and Navigation](guestway-platform/editor.md)
-* [Multi-Calendar](guestway-platform/editor-1.md)
-* [Unified AI Inbox ](guestway-platform/editor-2/README.md)
-  * [Guest Conversations ](guestway-platform/editor-2/guest-conversations/README.md)
+* [Dashboard and Navigation](guestway-platform/dashboard-and-navigation.md)
+* [Multi-Calendar](guestway-platform/multi-calendar.md)
+* [Unified AI Inbox](guestway-platform/editor-2/README.md)
+  * [Guest Conversations](guestway-platform/editor-2/guest-conversations/README.md)
     * [Message Controls and Status](guestway-platform/editor-2/guest-conversations/message-controls-and-status.md)
   * [Guest and Reservation Overview Panel](guestway-platform/editor-2/guest-and-reservation-overview-panel/README.md)
     * [Reservation](guestway-platform/editor-2/guest-and-reservation-overview-panel/reservation.md)
