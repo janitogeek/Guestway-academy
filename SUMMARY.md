@@ -2,9 +2,7 @@
 
 ## Welcome to Guestway
 
-* [What is Guestway?](README.md)
-* [Who is Guestway for?](welcome-to-guestway/who-is-guestway-for.md)
-* [Overview of the platform and mobile tools](welcome-to-guestway/overview-of-the-platform-and-mobile-tools.md)
+* [Overview](README.md)
 
 ***
 
