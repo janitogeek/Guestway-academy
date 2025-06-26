@@ -1,3 +1,7 @@
+---
+description: Users description
+---
+
 # Who is Guestway for?
 
 Guestway was built out of real-world necessity—not as a concept, but as a solution to the daily chaos faced by a fast-growing property management company. As their portfolio expanded from a few apartments to hundreds of units, their existing systems could no longer keep up: communication became scattered across platforms, cleanings were missed, teams operated without coordination, and guest satisfaction began to suffer.&#x20;

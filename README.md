@@ -1,3 +1,7 @@
+---
+description: Platform description
+---
+
 # What is Guestway?
 
 Guestway is a modern SaaS (Software-as-a-Service) platform designed for the hospitality and short-term rental industry. It’s built to complement your existing Property Management System by adding powerful tools that streamline operations, automate workflows, and enhance the guest experience.

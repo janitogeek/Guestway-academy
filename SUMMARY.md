@@ -6,16 +6,19 @@
 * [Who is Guestway for?](welcome-to-guestway/who-is-guestway-for.md)
 * [Overview of the platform and mobile tools](welcome-to-guestway/overview-of-the-platform-and-mobile-tools.md)
 
+***
+
+* [GET STARTED!](get-started.md)
+
 ## Onboarding
 
-* [Sign-up (Registration)](onboarding/sign-up-registration.md)
-* [Account Set-up](onboarding/account-set-up/README.md)
-  * [Property Management Systems](onboarding/account-set-up/property-management-systems/README.md)
-    * [Apaleo](onboarding/account-set-up/property-management-systems/apaleo.md)
-    * [Guesty](onboarding/account-set-up/property-management-systems/guesty.md)
-    * [Hostaway](onboarding/account-set-up/property-management-systems/hostaway.md)
-    * [Smoobu](onboarding/account-set-up/property-management-systems/smoobu.md)
-  * [Creating organizations](onboarding/account-set-up/creating-organizations.md)
+* [Account Creation (Sign-up)](onboarding/sign-up-registration.md)
+* [Creating organizations](onboarding/creating-organizations.md)
+* [Property Management Systems](onboarding/property-management-systems/README.md)
+  * [Apaleo](onboarding/property-management-systems/apaleo.md)
+  * [Guesty](onboarding/property-management-systems/guesty.md)
+  * [Hostaway](onboarding/property-management-systems/hostaway.md)
+  * [Smoobu](onboarding/property-management-systems/smoobu.md)
 
 ## Guestway Platform
 
