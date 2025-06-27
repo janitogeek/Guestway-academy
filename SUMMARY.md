@@ -33,6 +33,7 @@
     * [Tasks](guestway-platform/editor-2/guest-and-reservation-overview-panel/tasks.md)
 * [Reservation Panel](guestway-platform/reservation-panel.md)
 * [Review Center](guestway-platform/review-center.md)
+* [Properties](guestway-platform/properties.md)
 * [Service Templates](guestway-platform/service-templates.md)
 * [Cleaning](guestway-platform/cleaning.md)
 * [Thermostats](guestway-platform/thermostats.md)
@@ -43,12 +44,12 @@
   * [Organization Settings](guestway-platform/settings/organization-settings/README.md)
     * [Integrations](guestway-platform/settings/organization-settings/integrations.md)
 
-## Guestway App
+## Guestway Mobile App
 
-* [Getting started](guestway-app/getting-started.md)
-* [Cleaning](guestway-app/cleaning/README.md)
-  * [Weekly overview](guestway-app/cleaning/weekly-overview.md)
-  * [Managing cleaning tasks](guestway-app/cleaning/managing-cleaning-tasks.md)
-  * [Completing a task](guestway-app/cleaning/completing-a-task.md)
-* [Inbox](guestway-app/inbox.md)
-* [Settings](guestway-app/settings.md)
+* [Getting started](guestway-mobile-app/getting-started.md)
+* [Cleaning](guestway-mobile-app/cleaning/README.md)
+  * [Weekly overview](guestway-mobile-app/cleaning/weekly-overview.md)
+  * [Managing cleaning tasks](guestway-mobile-app/cleaning/managing-cleaning-tasks.md)
+  * [Completing a task](guestway-mobile-app/cleaning/completing-a-task.md)
+* [Inbox](guestway-mobile-app/inbox.md)
+* [Settings](guestway-mobile-app/settings.md)
