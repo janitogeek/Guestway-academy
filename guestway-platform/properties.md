@@ -1,6 +1,0 @@
----
-icon: house
----
-
-# Properties
-
