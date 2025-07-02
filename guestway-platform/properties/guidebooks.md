@@ -1,3 +1,9 @@
+---
+description: >-
+  Create personalised digital guidebooks for each property to enhance the guest
+  experience.
+---
+
 # Guidebooks
 
 ## Guidebook Creation:
