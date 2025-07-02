@@ -19,5 +19,7 @@ This allows you to assign local teams, manage region-specific operations, and ke
 
 Additionally, Guestway includes a predefined **HQ Mode**: this acts as a master view that centralizes all your organizations into a single unified workspace, allowing you to oversee and manage all listings across your entire portfolio.
 
+## Log in + Organization creation:
+
 {% embed url="https://app.guideflow.com/player/zklzy84top" %}
 
