@@ -4,6 +4,6 @@
 
 {% embed url="https://app.guideflow.com/player/3r3dovwsnp" %}
 
-## PMS Connection from Guestway's app (after sign-up completed):
+## PMS Connection from the platform (after sign-up completed):
 
 {% embed url="https://app.guideflow.com/player/zpe5zxja3p" %}
