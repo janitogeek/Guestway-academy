@@ -20,7 +20,6 @@
 
 ## Guestway Platform
 
-* [Dashboard and Navigation](guestway-platform/dashboard-and-navigation.md)
 * [Multi-Calendar](guestway-platform/multi-calendar.md)
 * [Unified AI Inbox](guestway-platform/editor-2/README.md)
   * [Guest Conversations](guestway-platform/editor-2/guest-conversations/README.md)

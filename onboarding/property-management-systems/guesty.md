@@ -2,8 +2,8 @@
 
 ## PMS Connection during sign-up:
 
-{% embed url="https://app.guideflow.com/player/3r3dovwsnp" %}
+{% embed url="https://app.guideflow.com/player/yr4qq6yilp" %}
 
-## PMS Connection from Guestway's app (after sign-up completed):
+## PMS Connection from the platform (after sign-up completed):
 
 {% embed url="https://app.guideflow.com/player/6kw1e8wczp" %}
