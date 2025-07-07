@@ -8,3 +8,6 @@
 
 {% embed url="https://app.guideflow.com/player/qkqmwoxs1p" %}
 
+## Finding your Property Code on Apaleo:
+
+{% embed url="https://app.guideflow.com/player/zpe5577u3p" %}

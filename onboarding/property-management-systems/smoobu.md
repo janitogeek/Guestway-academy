@@ -2,7 +2,7 @@
 
 ## PMS Connection during sign-up:
 
-{% embed url="https://app.guideflow.com/player/3r3dovwsnp" %}
+{% embed url="https://app.guideflow.com/player/mk68810tqp" %}
 
 ## PMS Connection from the platform (after sign-up completed):
 
