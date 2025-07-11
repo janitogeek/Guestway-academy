@@ -7,15 +7,18 @@
 * [Account Creation (Sign-up)](onboarding/sign-up-registration.md)
 * [Creating Organizations](onboarding/creating-organizations.md)
 * [Property Management Systems](onboarding/property-management-systems/README.md)
-  * [Apaleo](onboarding/property-management-systems/apaleo.md)
+  * [Apaleo](onboarding/property-management-systems/apaleo/README.md)
+    * [E-mail Forwarding](onboarding/property-management-systems/apaleo/e-mail-forwarding.md)
+    * [Find Property Codes](onboarding/property-management-systems/apaleo/find-property-codes.md)
   * [Guesty](onboarding/property-management-systems/guesty.md)
   * [Hostaway](onboarding/property-management-systems/hostaway.md)
   * [Smoobu](onboarding/property-management-systems/smoobu.md)
+  * [Page 1](onboarding/property-management-systems/page-1.md)
 
 ***
 
 * [Settings](settings/README.md)
-  * [Personal Settings](settings/personal-settings.md)
+  * [Profile Settings](settings/personal-settings.md)
   * [Organization Settings](settings/organization-settings/README.md)
     * [General](settings/organization-settings/general.md)
     * [Integrations](settings/organization-settings/integrations.md)
