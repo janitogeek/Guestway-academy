@@ -1,8 +1,9 @@
 ---
 description: The first step to using Guestway is to create an organization for your team
+icon: sitemap
 ---
 
-# Creating organizations
+# Creating Organizations
 
 #### What is an Organization in Guestway?
 

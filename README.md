@@ -2,7 +2,7 @@
 description: Everything you need to know to start supporting your guests with Guestway.
 ---
 
-# GET STARTED!
+# Get Started!
 
 <figure><img src=".gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,8 +26,8 @@ description: Everything you need to know to start supporting your guests with Gu
 
 3️⃣ After that, you’ll be guided to **connect your PMS** 🔗
 
-{% content-ref url="onboarding/property-management-systems/" %}
-[property-management-systems](onboarding/property-management-systems/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Once your PMS is connected, Guestway will start pulling all the relevant data and you’re ready to get started! 🚀

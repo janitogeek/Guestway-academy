@@ -6,7 +6,7 @@ icon: layer-group
 
 {% embed url="https://app.guideflow.com/player/8ko1g2za5r" %}
 
-The Integrations page is where you connect Guestway to all your essential systems—[Property Management Systems (PMS)](../../onboarding/property-management-systems/), communication channels like WhatsApp, smart locks, and smart thermostats.
+The Integrations page is where you connect Guestway to all your essential systems—[Property Management Systems (PMS)](broken-reference), communication channels like WhatsApp, smart locks, and smart thermostats.
 
 From this page, you can:
 

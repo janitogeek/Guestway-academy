@@ -1,8 +1,8 @@
 ---
-icon: file-user
+icon: user
 ---
 
-# Personal Settings
+# Profile Settings
 
 The **Personal Settings** area allows each user to configure their own account according to their preferences. It includes three key sections:&#x20;
 
