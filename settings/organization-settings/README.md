@@ -1,3 +1,7 @@
+---
+icon: objects-column
+---
+
 # Organization Settings
 
 The **Organization Settings** section allows administrators and managers to configure and control how Guestway operates across the entire organization. These settings ensure that your team, branding, integrations, and communications are consistent and optimized for your business needs. This area includes several key sections:

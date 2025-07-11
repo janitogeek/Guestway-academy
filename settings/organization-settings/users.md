@@ -1,2 +1,6 @@
+---
+icon: user-group
+---
+
 # Users
 

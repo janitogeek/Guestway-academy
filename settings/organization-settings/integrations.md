@@ -1,3 +1,7 @@
+---
+icon: layer-group
+---
+
 # Integrations
 
 The Integrations section allows you to manage all third-party connections related to your organization. These integrations are used to automate guest access, streamline reservation workflows, and enhance operational efficiency.&#x20;
