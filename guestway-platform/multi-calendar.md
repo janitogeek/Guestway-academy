@@ -9,7 +9,7 @@ icon: calendar-circle-user
 
 🗓️ With the Multi-Calendar View you can easily manage every listing, booking, and cleaning status on a single, visual calendar—perfect for busy teams.
 
-* **All-in-One Overview:**\
+* **Reservation Panel:**\
   Instantly see all your properties and reservations side by side. Whether you handle a few units or a large portfolio, everything is clear and organized.
 * **Instant Cleaning Status:**\
   Each listing has a broom icon—**green means clean**, **red means dirty**. With just a glance, you know which units are ready for guests and which need attention.
