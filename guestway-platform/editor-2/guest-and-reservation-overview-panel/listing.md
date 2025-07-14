@@ -4,8 +4,10 @@ icon: person-shelter
 
 # Listing
 
-This section provides a complete overview of the property associated with the reservation. It displays the listing’s nickname and full title as configured in your property management system, making it easy to identify the unit at a glance. In addition, it includes important details about the property type, the total number of bedrooms and bathrooms, and the maximum number of guests the unit can accommodate.&#x20;
+This section gives you a comprehensive snapshot of the property linked to each reservation. Instantly view the listing’s nickname and full title as set in your property management system, so you can identify the unit at a glance. You’ll also find key details—property type, number of bedrooms and bathrooms, maximum guest capacity, and the full property address—making it easy for staff or partners to locate the unit for cleaning, maintenance, or guest support.
 
-The full address of the property is also shown, helping staff or partners locate the unit easily when needed for cleaning, maintenance, or guest support. Having all this information in one place ensures a clearer understanding of the listing, simplifies operational coordination, and supports accurate guest communication.
+Additionally, all guidebooks created and linked to the listing are right at your fingertips. These can be PDFs, URLs, or text documents, and can be accessed by the operator in one click and shared with the guest in just two clicks. Of course, guests can also access these guidebooks directly from their Guest App for a seamless experience.
 
-{% embed url="https://app.guideflow.com/player/lpx4266s4k" %}
+Having all this essential information in one place streamlines operational coordination, supports accurate guest communication, and ensures everyone—staff and guests alike—has what they need for a smooth stay.
+
+{% embed url="https://app.guideflow.com/player/gkyd2l2tdk" %}
