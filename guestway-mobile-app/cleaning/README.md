@@ -1,5 +1,5 @@
 ---
-icon: inbox
+icon: calendar-check
 ---
 
 # Cleaning
