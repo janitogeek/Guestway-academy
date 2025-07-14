@@ -41,8 +41,8 @@
 
 * [Multi-Calendar](guestway-platform/multi-calendar.md)
 * [Unified AI Inbox](guestway-platform/editor-2/README.md)
-  * [Guest Conversations](guestway-platform/editor-2/guest-conversations.md)
-  * [Message Controls and Status](guestway-platform/editor-2/message-controls-and-status.md)
+  * [Guest Conversations](guestway-platform/editor-2/guest-conversations/README.md)
+  * [Message Controls and Status](guestway-platform/editor-2/guest-conversations/message-controls-and-status.md)
   * [Guest and Reservation Overview Panel](guestway-platform/editor-2/guest-and-reservation-overview-panel/README.md)
     * [Reservation](guestway-platform/editor-2/guest-and-reservation-overview-panel/reservation.md)
     * [Listing](guestway-platform/editor-2/guest-and-reservation-overview-panel/listing.md)

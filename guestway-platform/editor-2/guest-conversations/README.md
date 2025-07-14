@@ -1,4 +1,4 @@
-# Guest Conversations&#x20;
+# Guest Conversations
 
 This section displays the full conversation thread with the guest, along with a set of tools to help you manage and follow up efficiently. You can assign messages, control translations, set reminders, mute notifications, and flag conversations that need attention.
 
