@@ -1,3 +1,7 @@
+---
+icon: clipboard
+---
+
 # Tasks
 
 This tab provides a summary of completed cleaning tasks as recorded by the cleaning team in the cleaning app. It displays key details such as the assigned team, task status, scheduled cleaning times, and the cleaner responsible for each reservation.&#x20;

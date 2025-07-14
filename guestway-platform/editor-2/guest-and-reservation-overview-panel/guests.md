@@ -1,3 +1,7 @@
+---
+icon: user-group
+---
+
 # Guests
 
 The Guests section offers a comprehensive overview of the person who made the reservation. It provides valuable insights into the guest’s background, verification status, and contact details, helping you better understand who is staying in your property.&#x20;

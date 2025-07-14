@@ -1,3 +1,7 @@
+---
+icon: shield
+---
+
 # Access
 
 This section contains all the information related to accessing the unit, including the locks assigned to it. Typically, this includes the main building door, the apartment door, and a backup keybox for emergencies. From this panel, you can also regenerate access codes or disable all locks when needed.

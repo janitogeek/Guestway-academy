@@ -1,3 +1,7 @@
+---
+icon: person-dolly
+---
+
 # Reservation
 
 In the reservation panel, you’ll see a snapshot of the booking, including the listing’s nickname as set in your PMS, the full title and main image, the reservation status, the guest’s name, and the number of nights they will be staying.&#x20;
