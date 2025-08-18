@@ -50,6 +50,7 @@
     * [Guests](guestway-platform/editor-2/guest-and-reservation-overview-panel/guests.md)
     * [Access](guestway-platform/editor-2/guest-and-reservation-overview-panel/access.md)
     * [Tasks](guestway-platform/editor-2/guest-and-reservation-overview-panel/tasks.md)
+* [Guest Portal](guestway-platform/guest-portal.md)
 * [Reservation Panel](guestway-platform/reservation-panel.md)
 * [Review Center](guestway-platform/review-center.md)
 * [Properties](guestway-platform/properties/README.md)
